@@ -5,6 +5,9 @@ sarasaco@unisabana.edu.co
 
 # Bienvenidos a la Tarea de HTML y CSS
 Link: https://dsaw-2025-ii.github.io/my-cv-part-b-sarastacruz04/
+# Pantallazo
+<img width="1728" height="988" alt="image" src="https://github.com/user-attachments/assets/a1579aa1-58f7-4e38-8d3e-c29d82f3aaa6" />
+
 
 ¡Hola a todos!
 
