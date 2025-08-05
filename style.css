@@ -1,0 +1,254 @@
+body {
+    background-color: pink;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.Caja1 {
+    position:relative;
+    width: 100%;
+    height: 300px;
+    background-color: white;
+    display: flex; /*Coloca los elementos uno al aldo del otro*/
+}
+
+.foto {
+    padding: 20px ;
+    width: 200px;
+    height: 200px;
+}
+
+.datos1 {
+    display: flex; 
+}
+
+.info-personal{
+    flex: 1;
+}
+
+.perfil {
+    flex: 2; /*Espacio de un elemento hijo dentro de un contenedor flexible*/
+    margin-right: 90px;
+}
+
+.Caja2 {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    display: flex;
+}
+
+.datos2 {
+    display: flex; 
+}
+
+.educacion {
+    flex:3;
+    margin:10px;
+    padding-left: 20px;
+}
+
+#carreraU {
+    position : absolute ; /*Saco al elemento del flujo normal y lo acomodo donde quiera*/
+    top : 78px;
+    left : 56px ; 
+}
+
+#actual {
+    position : absolute ;
+    top : 100px;
+    left : 56px ; 
+}
+
+#instituto {
+    position : absolute ;
+    top :120px;
+    left : 30px ; 
+}
+
+#bachiller {
+    position: absolute;
+    top: 150px;
+    left: 56px;
+}
+
+#b2023 {
+    position: absolute;
+    top: 175px;
+    left: 56px;
+}
+
+#universidad {
+    position: absolute;
+    top: 200px;
+}
+
+#python {
+    position: absolute;
+    top: 227px;
+    left: 56px;
+}
+
+#p2023 {
+    position: absolute;
+    top: 250px;
+    left: 56px;
+}
+
+#politecnico {
+    position: absolute;
+    top: 280px;
+}
+
+#diseño {
+    position: absolute;
+    top: 310px;
+    left: 56px;
+}
+
+#d2020 {
+    position: absolute;
+    top: 333px;
+    left: 56px;
+}
+
+.experiencia {
+    margin-left: 222px;
+}
+
+#empresa {
+    position: absolute;
+    top: 70px;
+    left: 525px;
+}
+
+#vendedora {
+    position: absolute;
+    top: 90px;
+    left: 527px;
+}
+
+#pvendedora {
+    position: absolute;
+    top: 110px;
+    left: 529px;
+}
+
+#agosto {
+    position: absolute;
+    top: 150px;
+}
+
+#empresan {
+    position: absolute;
+    top: 170px;
+    left: 529px;
+}
+
+#redes {
+    position: absolute;
+    top: 190px;
+    left: 529px;
+}
+
+#rredes {
+    position: absolute;
+    top: 210px;
+    left: 529px;
+}
+
+#enero {
+    position: absolute;
+    top: 250px;
+}
+
+#ymca {
+    position: absolute;
+    top: 272px;
+    left: 529px;
+}
+
+#voluntario {
+    position: absolute;
+    top: 290px;
+    left: 529px;
+}
+
+#yvoluntario {
+    position: absolute;
+    top: 310px;
+    left: 529px;
+}
+
+#abril {
+    position: absolute;
+    top: 370px;
+}
+
+#restaurante {
+    position: absolute;
+    top: 390px;
+    left: 529px;
+}
+
+#mesera {
+    position: absolute;
+    top: 410px;
+    left: 529px;
+}
+
+#mmesera {
+    position: absolute;
+    top: 430px;
+    left: 529px;
+}
+
+.Caja3 {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    display: flex;
+}
+
+.datos2 {
+    display: flex; 
+}
+
+.logros {
+    flex:3;
+    margin:10px;
+    padding-left: 20px;
+    
+}
+
+#t2023 {
+    position: absolute;
+    top: 70px;
+    left: 60px;
+}
+
+#tequipo {
+    position: absolute;
+    top:90px;
+    left: 60px;
+}
+
+.hobbies {
+     position: absolute;
+     top: 10px;
+     left: 700px;
+}
+
+
+
+h2 {
+    margin-bottom: 10px; /*Deja un espacio debajo del titulo*/
+}
+
+p {
+    line-height: 1.5; /*Espacio entre lineas*/
+}
